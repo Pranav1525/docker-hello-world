@@ -1,7 +1,7 @@
 docker-hello-world
 ==================
 
-Sample docker image to test docker deployments
+Sample docker image to test docker deployments.
 
 
 Usage
